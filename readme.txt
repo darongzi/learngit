@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks chanages.
 Creating a branch is quick and simple. simple.
 
-Modify develop.
+Modify develop branch readme.txt.
